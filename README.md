@@ -1,2 +1,2 @@
-## [c++ ps things](https://github.com/yoonoomilk/ps)
+## [ps template](https://github.com/yoonoomilk/ps)
 TODO: auto apply templates
