@@ -1,2 +1,3 @@
-## [ps template](https://github.com/yoonoomilk/ps)
-TODO: auto apply templates
+## [workspace for ps](https://github.com/yoonoomilk/workspace)
+* code snippets for vscode
+* compile+run key shortcuts for vscode
